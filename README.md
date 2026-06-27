@@ -15,6 +15,6 @@ Trained on 50,000+ timestamped traffic records from 12 city corridors. Outperfor
 Python · Pandas · NumPy · Scikit-learn · Matplotlib
 
 ## Results
-- RMSE: 4.2 vehicles/min
+- RMSE: 4.2 vehicles/min  
 - 31% improvement over linear baseline
 - 22% estimated reduction in peak-hour wait time
